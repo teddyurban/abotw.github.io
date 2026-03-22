@@ -26,12 +26,21 @@ body {
     margin-left: 150px;
     margin-right: 150px;
     text-indent: 20px;
+    letter-spacing: -0.5px;
+    font-size: 20px;
 }
 
 #blurb {
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
+}
+
+#footer {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 15px;
 }
 
 p {
