@@ -60,6 +60,20 @@ p {
 
 }
 
+p a{
+    color: black;
+    text-decoration: underline;
+}
+
+p a:link,
+p a:visited,
+p a:hover,
+p a:active {
+    text-decoration: underline;
+    color: black;
+}
+
+
 h1 {
     font-size: 50px;
     letter-spacing: -3px;
