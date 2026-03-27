@@ -52,6 +52,14 @@ ul li a{
     text-decoration: underline;
 }
 
+#blurb a:link,
+#blurb a:visited,
+#blurb a:hover,
+#blurb a:active {
+    text-decoration: underline;
+    color: black;
+}
+
 #footer {
     text-align: center;
     margin-left: 500px;
