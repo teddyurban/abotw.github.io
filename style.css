@@ -138,7 +138,7 @@ h4 {
 }
 
 .container {
-    display: grid;
+    display: inline-grid;
     grid-template-columns: auto auto auto;
     background-color: aliceblue;
     padding: 10px;
