@@ -140,7 +140,7 @@ h4 {
 .container {
     display: inline-grid;
     grid-template-columns: repeat(5, 40px);
-    background-color: aliceblue;
+    background-color: black;
     padding: 10px;
 }
 
@@ -179,5 +179,5 @@ input{
 }
 
 .inactive{
-    background-color: white;
+    background-color: black;
 }
