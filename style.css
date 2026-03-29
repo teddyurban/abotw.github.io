@@ -173,7 +173,7 @@ input{
     text-align: center;
     height: 35px;
     width: 35px;
-    background-color: transparent;
+    background-color: white;
     border: none;
     z-index: 1;
 }
