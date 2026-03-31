@@ -3,6 +3,11 @@ body {
     justify-content: center;
 }
 
+@font-face {
+    font-family: Creato Display;
+    src: url(https://www.dafont.com/creato-display.font);
+}
+
 
 ul {
   list-style-type: none;
