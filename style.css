@@ -358,10 +358,10 @@ input{
 
     ul li a{
         display: block;
-        padding: 14px 20px; 
+        padding: 10px 10px; 
         text-decoration: underline;
         color: black;
-        font-size: 12px;
+        font-size: 20px;
     }
 
     ul {
