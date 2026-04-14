@@ -367,10 +367,14 @@ input{
     ul {
         list-style-type: none;
         margin: 0;
-         padding: 0;
+        padding: 0;
         background-color: #ffffff;
         display: flex;
         justify-content: center;
     }
 
+    img {
+        width: 60%;
+        height: auto;
+    }
 }
